@@ -15,9 +15,8 @@
 
 <div>
 <a href="https://www.instagram.com/jvsbueno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "bueno.joao04@escola.pr.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-santos-bueno-1232a092/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <!--
 **jvsbueno/jvsbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
