@@ -6,7 +6,7 @@
 - Sou formado em Engenharia Química, pela Universidade Estadual de Maringá e Matemática, pela UNIFAEL.
 - Sou mestre em Engenharia Química, pela Universidade Estadual de Maringá.
 - Sou professor de Matemática, Educação Financeira e Pensamento Computacional.
-- Atualmente trabalho no Colégico Estadual Cívico Militar Cecília Meireles.
+- Atualmente trabalho no Colégio Estadual Cívico Militar Cecília Meireles, nas disciplinas de Pensamento Computacional, Educação Financeira e Matemática.
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/377845608909897728/991776826504523826/download.jpg" width="200" height="200"/> </p>
 
 
